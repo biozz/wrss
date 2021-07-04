@@ -1,0 +1,6 @@
+feeds:
+  - name: Rybinsk
+    slug: rybinsk
+    lat: 58.048458
+    lon: 38.858406
+    lang: ru_RU
